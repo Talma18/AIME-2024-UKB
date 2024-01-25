@@ -378,8 +378,10 @@ class Tokenizer(PreTrainedTokenizerBase):
 
             field_id, instance_id, array_id = map(int, c.replace('.', '-').split('-'))
             if field_id not in self.field_to_modality or instance_id != 0:
-                # only keep instance 0 because few ppl have multiple instances,
-                # and long sequences cause memory issues
+                # Only keep instance 0 because few ppl have multiple instances,
+                # and long sequences cause memory issues.
+                # There also no need to sort the these sequences in this case
+                # because all events have the same date.
                 continue
 
             field_value = patient[c]
