@@ -1,0 +1,10 @@
+# ignore pycharm project files
+.idea
+
+wandb
+
+# ignore all jupyter checkpoints
+**/.ipynb_checkpoints
+
+# ignore all __pycache__ directories
+**/__pycache__

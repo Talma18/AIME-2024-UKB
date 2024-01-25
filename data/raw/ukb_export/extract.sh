@@ -1,0 +1,1 @@
+./ukbconv "ukb670820.enc_ukb" "csv" -ifield.txt -odata

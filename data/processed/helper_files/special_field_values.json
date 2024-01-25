@@ -1,0 +1,37 @@
+{
+    "709": {
+        "-1": "Do not know",
+        "-3": "Prefer not to answer"
+    },
+    "1050": {
+        "-1": "Do not know",
+        "-10": "Less than an hour a day",
+        "-3": "Prefer not to answer"
+    },
+    "1060": {
+        "-1": "Do not know",
+        "-10": "Less than an hour a day",
+        "-3": "Prefer not to answer"
+    },
+    "1160": {
+        "-1": "Do not know",
+        "-3": "Prefer not to answer"
+    },
+    "1498": {
+        "-1": "Do not know",
+        "-10": "Less than one",
+        "-3": "Prefer not to answer"
+    },
+    "2139": {
+        "-1": "Do not know",
+        "-2": "Never had sex",
+        "-3": "Prefer not to answer"
+    },
+    "2734": {
+        "-3": "Prefer not to answer"
+    },
+    "3829": {
+        "-1": "Do not know",
+        "-3": "Prefer not to answer"
+    }
+}
