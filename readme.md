@@ -1,4 +1,4 @@
-Repository for the paper "Multimorbidity-boosted Patient Stratification Using Biobank-scale Representations from Modular Transformers".
+Repository for the paper "Biobank-scale Unified Representations by Modular Transformers: a novel stratification of treatment-resistant depression".
 
 # How to use
 
